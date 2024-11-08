@@ -9,8 +9,8 @@ a.  R and RStudio: Ensure you have R and RStudio installed. You can download the
 b. SPSS: You can download it from: [SPSS](https://www.ibm.com/products/spss-statistics)
 c. NFHS-5 Dataset : To conduct the analysis related to cesarean delivery rates, ensure that you download the relevant NFHS-5 data files. Follow these steps:
    i. Visit the [DHS Program website](https://dhsprogram.com/data/dataset/India_Standard-DHS_2020.cfm?flag=1) to download the necessary data files for analysis.
-   ii. Download the Household Members Recode, Individual Recode STATA files. The files to download are IAPR7EDT, IAIR7EDT, respectively.
-   iii. Extract the downloaded .zip or .rar files into a directory within your project folder, such as Data_raw.
+   ii. Download the Children’s Recode SPSS file named IAKR7ESV.ZIP
+   iii. Extract the downloaded .zip file into a directory within your project folder, such as Data_raw.
 
 **File Descriptions**
 
@@ -26,13 +26,13 @@ _Purpose:_ To guide users through the full analysis process, including variable 
 
 **2. Box1.csv**
 
-_Description:_ A CSV file containing data for Box 1 referenced in the study’s figures and tables.
+_Description:_ A CSV file containing data for Figure 4 Box and Whisker plot used in R code.
 
 _Contents:_
 
 1. Data columns relevant to the state wise wealth quintile breakdown, sector, and cesarean delivery rates. 
 
-_Purpose:_ Used as input for specific analyses and visual representations.
+_Purpose:_ Used as input for R code.
 
 **3. BoxPlot_RCode.R**
 
@@ -84,4 +84,4 @@ _Excel Reference:_
 2. The R script and SPSS syntax are prepared with the RStudio and SPSS version 22.0 (SPSS Inc., Chicago, IL, USA) for Windows, respectively.
 
 **Contact**
-For any questions or issues with the code or data files, please contact Priti Patil at pritirpatil@gmail.com and Priyansh Nathani at priyanshnathani@gmail.com.
+For any questions or issues with the code or data files, please contact Priti Patil at priti.rpatil@gmail.com and Priyansh Nathani at priyanshnathani@gmail.com.
