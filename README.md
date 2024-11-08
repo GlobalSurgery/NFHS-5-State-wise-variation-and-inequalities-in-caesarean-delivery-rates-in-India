@@ -2,6 +2,16 @@
 
 This README file provides a brief description of the data analysis code and related files uploaded for the study titled “State-wise Variation and Inequalities in Cesarean Delivery Rates in India: Analysis of the National Family Health Survey-5 (2019-2021) Data.” These files are essential for understanding and replicating the analyses performed in this study.
 
+Getting Started
+
+1. Prerequisites
+a.  R and RStudio: Ensure you have R and RStudio installed. You can download them from: [R](https://cran.r-project.org/mirrors.html) , [RStudio](https://posit.co/download/rstudio-desktop/)
+b. SPSS: You can download it from: [SPSS](https://www.ibm.com/products/spss-statistics)
+c. 
+
+
+
+
 **File Descriptions**
 
 **_1. Analysis_Code.xlsx_**
@@ -60,7 +70,7 @@ _R Script Execution:_
 
 2. Install and load required packages such as ggplot2 if not already installed.
 
- 3.Run the script to produce the box plots.
+3.Run the script to produce the box plots.
 
 **SPSS Syntax:**
 
@@ -72,10 +82,18 @@ _R Script Execution:_
 
 1. Use Analysis_Code.xlsx as a supplementary guide for understanding the overall analysis structure and specific code snippets.
 
+**Expected Outputs**
+
+1. Box Plots: Visual representations of CD rate distributions.
+
+2. Tables: Summarized data tables showing CD rates by state and wealth quintile.
+
+3. Session Info: Details of the packages and environment used for the analysis.
+
 **Notes**
 
 1. Ensure that all data paths and file directories are correctly set before running the code.
-2. The R script and SPSS syntax are compatible with the RStudio and SPSS version 22.0 (SPSS Inc., Chicago, IL, USA) for Windows, respectively.
+2. The R script and SPSS syntax are prepared with the RStudio and SPSS version 22.0 (SPSS Inc., Chicago, IL, USA) for Windows, respectively.
 
 **Contact**
-For any questions or issues with the code or data files, please contact Priyansh Nathani at priyanshnathani@gmail.com.
+For any questions or issues with the code or data files, please contact Priti Patil at pritirpatil@gmail.com and Priyansh Nathani at priyanshnathani@gmail.com.
