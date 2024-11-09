@@ -6,8 +6,11 @@ Getting Started
 
 1. Prerequisites
 a.  R and RStudio: Ensure you have R and RStudio installed. You can download them from: [R](https://cran.r-project.org/mirrors.html) , [RStudio](https://posit.co/download/rstudio-desktop/)
+
 b. SPSS: You can download it from: [SPSS](https://www.ibm.com/products/spss-statistics)
+
 c. NFHS-5 Dataset : To conduct the analysis related to cesarean delivery rates, ensure that you download the relevant NFHS-5 data files. Follow these steps:
+
    i. Visit the [DHS Program website](https://dhsprogram.com/data/dataset/India_Standard-DHS_2020.cfm?flag=1) to download the necessary data files for analysis.
    
    ii. Download the Children’s Recode SPSS file named IAKR7ESV.ZIP
