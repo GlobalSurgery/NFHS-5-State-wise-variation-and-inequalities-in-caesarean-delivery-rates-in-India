@@ -2,9 +2,9 @@
 
 This README file provides a brief description of the data analysis code and related files uploaded for the study titled “State-wise Variation and Inequalities in Cesarean Delivery Rates in India: Analysis of the National Family Health Survey-5 (2019-2021) Data.” These files are essential for understanding and replicating the analyses performed in this study.
 
-Getting Started
+**Getting Started**
 
-1. Prerequisites
+Prerequisites
 
 a.  R and RStudio: Ensure you have R and RStudio installed. You can download them from: [R](https://cran.r-project.org/mirrors.html) , [RStudio](https://posit.co/download/rstudio-desktop/)
 
