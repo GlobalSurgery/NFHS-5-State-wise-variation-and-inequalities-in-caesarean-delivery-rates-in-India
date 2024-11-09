@@ -5,6 +5,7 @@ This README file provides a brief description of the data analysis code and rela
 Getting Started
 
 1. Prerequisites
+
 a.  R and RStudio: Ensure you have R and RStudio installed. You can download them from: [R](https://cran.r-project.org/mirrors.html) , [RStudio](https://posit.co/download/rstudio-desktop/)
 
 b. SPSS: You can download it from: [SPSS](https://www.ibm.com/products/spss-statistics)
